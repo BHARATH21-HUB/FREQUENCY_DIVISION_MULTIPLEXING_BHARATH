@@ -133,6 +133,9 @@ subplot(3,2,6); plot(t,d6); title("Demod 6");
 
 ## CALCULATION
 
+<img width="753" height="1280" alt="image" src="https://github.com/user-attachments/assets/771b9c54-5d1c-4216-a802-136523d9d6f6" />
+
+<img width="771" height="1280" alt="image" src="https://github.com/user-attachments/assets/82745a83-baac-400d-99a9-353f9c1e64d3" />
 
 ## RESULT
 Six different message signals were generated and modulated using FDM. All modulated signals were added to form a multiplexed FDM signal. Each message was successfully recovered using coherent demodulation followed by low-pass filtering. The plots confirmed accurate multiplexing and demultiplexing.
